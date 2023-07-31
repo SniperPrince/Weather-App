@@ -115,16 +115,18 @@ body {
 
 @media screen and (max-width:470px) {
     .card {
-        width: 95%;
+        max-width: 440px;
+        width: 90%;
+        padding: 50px 50px;
     }
-
 
 }
 
-@media screen and (max-width:410px) {
+@media screen and (max-width:440px) {
     .card {
-        width: 110%;
+        max-width: 400px;
+        width: 90%;
+        padding: 50px 50px;
     }
-
 
 }
