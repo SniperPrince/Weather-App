@@ -112,3 +112,16 @@ body {
     margin-top: 10px;
 
 }
+
+@media screen and (max-width:450px) {
+    .card {
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+
+    .search {
+        flex-shrink: 2;
+    }
+
+}
