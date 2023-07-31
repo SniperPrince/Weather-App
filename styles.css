@@ -112,3 +112,19 @@ body {
     margin-top: 10px;
 
 }
+
+@media screen and (max-width:470px) {
+    .card {
+        width: 100%;
+    }
+
+
+}
+
+@media screen and (max-width:410px) {
+    .card {
+        width: 110%;
+    }
+
+
+}
