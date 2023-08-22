@@ -40,6 +40,7 @@ body {
     flex: 1;
     margin-right: 16px;
     font-size: 18px;
+
 }
 
 .search button {
@@ -110,18 +111,5 @@ body {
     margin-left: 10px;
     font-size: 14px;
     margin-top: 10px;
-
-}
-
-@media screen and (max-width:450px) {
-    .card {
-        display: flex;
-        flex-wrap: wrap;
-
-    }
-
-    .search {
-        flex-shrink: 2;
-    }
 
 }
